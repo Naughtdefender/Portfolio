@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository! 🚀 This portfolio showcas
 
 ## 🔗 Live Demo
 You can view the live version of my portfolio here:  
-[Portfolio Website](https://your-portfolio-link.com)
+[Portfolio Website]([(https://verdant-youtiao-51b3e1.netlify.app)])
 
 ---
 
@@ -43,5 +43,5 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Naughtdefender/portfolio.git
    cd portfolio
