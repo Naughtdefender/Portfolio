@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository! 🚀 This portfolio showcas
 
 ## 🔗 Live Demo
 You can view the live version of my portfolio here:  
-[Portfolio Website]([(https://verdant-youtiao-51b3e1.netlify.app)])
+[Portfolio Website]([https://verdant-youtiao-51b3e1.netlify.app])
 
 ---
 
